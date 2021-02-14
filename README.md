@@ -86,17 +86,12 @@ This collection provides a list of educational resources for Software Engineers.
 
 ## Communities
 
-- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi)
-
-- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597)
-
-- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity)
-
-- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts)
-
-- [Mentors Without Borders](https://www.facebook.com/MentorsWB)
-
-- [Google Developers Community Karachi](https://www.facebook.com/groups/GDGKolachi)
+- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi) - This is community of freecodecamp from Karachi, Pakistan. 
+- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - This is community of Golang from Pakistan.
+- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - This is community of Hyderabad, Pakistan for developers.
+- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts) - This is community of teaching programming to newbie.
+- [Mentors Without Borders](https://www.facebook.com/MentorsWB) - This is community of giving mentorship for free to students.
+- [Google Developers Community Karachi](https://www.facebook.com/groups/GDGKolachi) - This is community of Google Develoeprs Group from Karachi, Pakistan.
 
 ## MORE RESOURCES COMING SOON!
 
